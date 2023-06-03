@@ -1,0 +1,14 @@
+{
+  "name": "mynodejsapp",
+  "version": "1.0.0",
+  "description": "my first nodejs app on docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "omkar k",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
